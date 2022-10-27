@@ -6,7 +6,7 @@ const HeroSection = () => {
     const subtitle = 'Percayakan rangkaian bunga melati ronce kepada kami.';
 
   return (
-    <div className='mb-44'>
+    <div className='mb-72'>
         <div className='bg-[#F6F3EE] w-full lg:h-[90vh] md:h-[60vh] h-[100vh] md:flex md:flex-row-reverse block '>
             <img src={BgHero} alt="" className='lg:w-[52%] md:w-[50%] ml-auto'/>
             <div className="content lg:mx-20 md:mx-10 mx-8 lg:mt-40 md:mt-20 mt-10">

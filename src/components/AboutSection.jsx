@@ -13,7 +13,7 @@ const AboutSection = () => {
         'Adat Pengantin']
 
   return (
-    <div className='lg:ml-44 md:mx-10 mb-40'>
+    <div className='lg:ml-44 md:mx-10 mb-72'>
         <div className="about-section md:flex just">
             <img src={BgAbout} alt="" className='lg:w-[32%] md:w-[35%] w-[70%] md:mx-0 mx-auto'/>
             <div className="content lg:ml-24 md:ml-16 mx-8 mt-10 md:mt-0">
