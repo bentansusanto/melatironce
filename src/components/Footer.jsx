@@ -15,7 +15,7 @@ const Footer = ({social}) => {
                 <img src={require('../assets/image/footer5.jpg')} alt="" className='w-auto' />
                 <img src={require('../assets/image/footer6.jpg')} alt="" className='w-auto' />
             </div>
-            <div className='contact grid lg:grid-cols-2 gap-x-5 gap-y-10 mt-10'>
+            <div className='contact grid lg:grid-cols-2 gap-x-5 gap-y-10 mt-10 md:mt-0'>
                 <div className="kontak space-y-2">
                     <h4 className="pb-3 text-[1.2rem] font-semibold">Contact Us</h4>
                     <p>Jl. Sulaiman Pasar Bunga Rawa Belong RT. 10/RW. 03 Sukabumi Utara Kebun Jeruk Jakarta Barat.</p>
