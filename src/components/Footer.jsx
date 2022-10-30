@@ -35,7 +35,7 @@ const Footer = ({social}) => {
                 </div>
             </div>
         </div>
-        <div className="wa-kontak float-right left-[24rem] lg:left-[80rem] absolute">
+        <div className="wa-kontak float-right left-[23rem] lg:left-[80rem] absolute">
             <a href={whatsapp.link} className="fixed bottom-10">
                 <img src={whatsapp.icon} alt="" className='w-14'/>
             </a>

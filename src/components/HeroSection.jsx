@@ -3,7 +3,7 @@ import BgHero from '../assets/image/bg-hero.jpg'
 
 const HeroSection = () => {
     const title = 'Equip your bride and groom with beautiful and attractive accessories.';
-    const subtitle = 'Percayakan rangkaian bunga melati ronce kepada kami.';
+    const subtitle = 'Trust the ronce jasmine flower arrangement to us.';
 
   return (
     <div className='mb-72'>
