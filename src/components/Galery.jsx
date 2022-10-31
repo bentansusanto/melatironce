@@ -9,12 +9,14 @@ const Galery = () => {
           <img src={require('../assets/image/10.jpg')} alt="" />
           <img src={require('../assets/image/3.jpg')} alt="" />
           <img src={require('../assets/image/5.jpg')} alt="" />
+          <img src={require('../assets/image/17.jpg')} alt="" />
         </li>
         <li className='space-y-4'>
           <img src={require('../assets/image/15.jpg')} alt="" />
           <img src={require('../assets/image/6.jpg')} alt="" />
           <img src={require('../assets/image/7.jpg')} alt="" />
           <img src={require('../assets/image/4.jpg')} alt="" />
+          <img src={require('../assets/image/19.jpg')} alt="" />
         </li>
         <li className='space-y-4'>
           <img src={require('../assets/image/9.jpg')} alt="" />
@@ -27,6 +29,7 @@ const Galery = () => {
           <img src={require('../assets/image/13.jpg')} alt="" />
           <img src={require('../assets/image/14.jpg')} alt="" />
           <img src={require('../assets/image/8.jpg')} alt="" />
+          <img src={require('../assets/image/18.jpg')} alt="" />
         </li>
       </ul>
     </div>
