@@ -1,7 +1,7 @@
 
 const Footer = ({social}) => {
     const whatsapp = {
-        icon : 'https://img.icons8.com/color/48/000000/whatsapp--v1.png',
+        icon : 'https://img.icons8.com/color/50/000000/whatsapp--v1.png',
         link : 'https://wa.me/081617162141'
     }
   return (
@@ -35,9 +35,9 @@ const Footer = ({social}) => {
                 </div>
             </div>
         </div>
-        <div className="wa-kontak float-right left-[23rem] lg:left-[80rem] absolute">
+        <div className="wa-kontak ml-[19rem] lg:left-[80rem]">
             <a href={whatsapp.link} className="fixed bottom-10">
-                <img src={whatsapp.icon} alt="" className='w-14'/>
+                <img src={whatsapp.icon} alt="" className='w-[5rem]'/>
             </a>
         </div>
         <footer className='pt-10 text-center'>
