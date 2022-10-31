@@ -4,7 +4,7 @@ import Galery from './Galery';
 
 const OurGalery = () => {
 const subtitle = 'Portofolio';
-const title = 'Our Galery';
+const title = 'Foto Galery';
 return (
     <div className='mb-72'>
       <div className="galery">

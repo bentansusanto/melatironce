@@ -1,12 +1,12 @@
 import React from 'react'
 
 const OurService = () => {
-    const subtitle = 'Our Service';
-    const title = 'Why Choose Us?'
+    const subtitle = 'Layanan Kami';
+    const title = 'Kenapa Pilih Kami?'
     const service = [
         {
             icon :'package.svg', 
-            title : 'Packaging Bagus',
+            title : 'Pengemasan Bagus',
             content : 'Kami selalu memberikan layanan terbaik seperti packaging yang bagus.'
         },
         {

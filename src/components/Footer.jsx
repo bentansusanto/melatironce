@@ -17,12 +17,12 @@ const Footer = ({social}) => {
             </div>
             <div className='contact grid lg:grid-cols-2 gap-x-5 gap-y-10 mt-10 md:mt-0'>
                 <div className="kontak space-y-2">
-                    <h4 className="pb-3 text-[1.2rem] font-semibold">Contact Us</h4>
-                    <p>Jl. Sulaiman Pasar Bunga Rawa Belong RT. 10/RW. 03 Sukabumi Utara Kebun Jeruk Jakarta Barat.</p>
+                    <h4 className="pb-3 text-[1.2rem] font-semibold">Kontak Kami</h4>
+                    <p>Jl. Sulaiman Pasar Bunga Rawa Belong RT.10/RW.3 Sukabumi Utara Kebun Jeruk Jakarta Barat.</p>
                     <p>0816-1716-2141</p>
                 </div>
                 <div className="quick-link">
-                    <h4 className="pb-3 text-[1.2rem] font-semibold">Social Media</h4>
+                    <h4 className="pb-3 text-[1.2rem] font-semibold">Media Sosial</h4>
                     <div className='flex space-x-3'>
                         {
                             social.map((val,idx) => (

@@ -21,6 +21,7 @@ const Galery = () => {
           <img src={require('../assets/image/2.jpg')} alt="" />
           <img src={require('../assets/image/11.jpg')} alt="" />
           <img src={require('../assets/image/12.jpg')} alt="" />
+          <img src={require('../assets/image/16.jpg')} alt="" />
         </li>
         <li className='space-y-4'>
           <img src={require('../assets/image/13.jpg')} alt="" />
