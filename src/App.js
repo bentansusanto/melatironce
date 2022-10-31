@@ -9,9 +9,9 @@ import './index.css';
 
 function App() {
   const social = [
-    {link : 'https://instagram.com', icon: 'https://img.icons8.com/fluency/35/000000/instagram-new.png'},
-    {link : 'https://facebook.com', icon: 'https://img.icons8.com/fluency/35/000000/facebook.png'},
-    {link : 'https://youtobe.com', icon: 'https://img.icons8.com/fluency/35/000000/youtube-play.png'},
+    {link : 'https://instagram.com/mamungmelati', icon: 'https://img.icons8.com/fluency/35/000000/instagram-new.png'},
+    {link : 'https://facebook.com/melati.belong', icon: 'https://img.icons8.com/fluency/35/000000/facebook.png'},
+    {link : 'https://www.youtube.com/channel/UC-oJJTRCBvymTXmX1qBSS7A', icon: 'https://img.icons8.com/fluency/35/000000/youtube-play.png'},
   ]
 
 
