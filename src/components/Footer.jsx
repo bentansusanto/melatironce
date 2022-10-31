@@ -2,7 +2,7 @@
 const Footer = ({social}) => {
     const whatsapp = {
         icon : 'https://img.icons8.com/color/50/000000/whatsapp--v1.png',
-        link : 'https://wa.me/081617162141'
+        link : 'https://wa.me/+6281617162141'
     }
   return (
     <div className='bg-[#E0E0E0] w-full h-auto pb-5 pt-12'>
