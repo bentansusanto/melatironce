@@ -1,13 +1,13 @@
 
 const Footer = ({social}) => {
     const whatsapp = {
-        icon : 'https://img.icons8.com/color/50/000000/whatsapp--v1.png',
+        icon : 'https://img.icons8.com/color/60/000000/whatsapp--v1.png',
         link : 'https://wa.me/+6281617162141'
     }
   return (
     <div className='bg-[#E0E0E0] w-full h-auto pb-5 pt-12'>
         <div className="footer grid lg:grid-cols-2 grid-cols-1 gap-4 lg:px-20 px-8">
-            <div className="fotos grid lg:grid-cols-3 md:grid-cols-2 grid-cols-3 lg:mr-72 mr-28 gap-4">
+            <div className="fotos grid lg:grid-cols-3 md:grid-cols-2 grid-cols-3 lg:mr-72 mr-26/2 gap-4">
                 <img src={require('../assets/image/footer1.jpg')} alt="" className='w-auto' />
                 <img src={require('../assets/image/footer2.jpg')} alt="" className='w-auto' />
                 <img src={require('../assets/image/footer3.jpg')} alt="" className='w-auto' />
@@ -35,9 +35,9 @@ const Footer = ({social}) => {
                 </div>
             </div>
         </div>
-        <div className="wa-kontak ml-[19rem] lg:left-[80rem]">
+        <div className="wa-kontak ml-[20rem] lg:left-[60rem] relative">
             <a href={whatsapp.link} className="fixed bottom-10">
-                <img src={whatsapp.icon} alt="" className='w-[5rem]'/>
+                <img src={whatsapp.icon} alt="" className='w-auto'/>
             </a>
         </div>
         <footer className='pt-10 text-center'>
